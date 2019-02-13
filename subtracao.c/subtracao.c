@@ -14,7 +14,7 @@ int main() {  // Função principal.
   scanf("%d", &b ); // Reserva espaço na memória, para variável b.
 
   sub = a-b; // atribuindo o valor da adição de a e b, para variável soma.
-  printf(" A soma de %d, e %d vale - > %d\n", a, b, sub ); //imprimindo valor em tela, apresentando com uma mensagem.
+  printf(" A subtração de %d, e %d vale - > %d\n", a, b, sub ); //imprimindo valor em tela, apresentando com uma mensagem.
 
   return 0;
 }
